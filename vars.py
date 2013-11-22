@@ -1,0 +1,7 @@
+TEST_URL = "http://www.WebbotsSpidersScreenScrapers.com/hello_world.html"
+DATABASE_NAME = "items_db"
+ID2NAME_COL = "id_name_col"
+WIKI_COL = "wiki_col"
+EBAY_COL = "ebay_col"
+WIKI_URL = "http://en.wikipedia.org/wiki/Comparison_of_tablet_computers"
+EBAY_URL = "http://www.ebay.com"
